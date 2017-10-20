@@ -1,0 +1,6 @@
+die6 value2
+die6 value3
+die6 value1
+die6 value6
+die6 value4
+die6 value5
